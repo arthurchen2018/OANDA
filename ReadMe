@@ -4,3 +4,4 @@ Hello OANDA
 ## Week 1:
 
 1. 20171800_tickfreq means: year = 2017, time bar = 1800sec (30mins)
+2. High, median, low == 66.67%, 50%, 33% Percentile
