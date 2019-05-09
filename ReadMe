@@ -5,3 +5,9 @@ Hello OANDA
 
 1. 20171800_tickfreq means: year = 2017, time bar = 1800sec (30mins)
 2. High, median, low == 66.67%, 50%, 33% Percentile
+
+## Weel 2:
+
+1. Categorized high-frequency events (occurs >12 times per year) and low-frequency events ( occurs < 5 times per year)
+2. Adjusted and plot
+3. TBD
